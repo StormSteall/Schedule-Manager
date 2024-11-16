@@ -1,4 +1,5 @@
 Schedule Manager
+
 A simple console-based Python application that helps users manage their daily tasks by adding, viewing, marking tasks as complete, and deleting them as needed. The Schedule Manager is designed to be an easy-to-use tool for organizing and tracking tasks, demonstrating basic CRUD (Create, Read, Update, Delete) operations.
 
 Features
